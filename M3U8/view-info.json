@@ -1,0 +1,20 @@
+﻿[
+    {
+        "bind": "",
+        "ext": {
+            "labels": []
+        },
+        "labels": [],
+        "name": "",
+        "url": "/info"
+    },
+    {
+        "bind": "",
+        "ext": {
+            "labels": []
+        },
+        "labels": [],
+        "name": "",
+        "url": "/"
+    }
+]
